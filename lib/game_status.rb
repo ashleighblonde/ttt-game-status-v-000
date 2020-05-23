@@ -4,5 +4,6 @@ def position_taken?(board, index)
 end
 
 # Define your WIN_COMBINATIONS constant
-def win_combination(won)
-  if won? { |top_row_win| return [0,1,2] }
+def win_combination
+end
+
