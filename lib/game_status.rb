@@ -15,6 +15,7 @@ def won?(board)
    position_1 == position_2 && position_2 == position_3 && position_taken?(board, win_index_1)
  end
 end
+
 WIN_COMBINATIONS = [
 [0,1,2], # top_row
 [3,4,5], # middle_row
