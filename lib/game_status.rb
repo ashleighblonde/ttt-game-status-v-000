@@ -4,10 +4,7 @@ def position_taken?(board, index)
 end
 
 # Define your WIN_COMBINATIONS constant
-def won?(board)
- WIN_COMBINATIONS.each do |win_combination|
- end
- end
+
 
 
 WIN_COMBINATIONS = [
